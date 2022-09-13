@@ -1,2 +1,2 @@
 # meuprimeirosite
-http://nicolliegoes.github.io/meuprimeirosite
+http://NicollieGoes.github.io/meuprimeirosite
